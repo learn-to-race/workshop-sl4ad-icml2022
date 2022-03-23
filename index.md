@@ -199,7 +199,6 @@ We envision this workshop bringing together researchers and industry practitione
 For more information on the tracks and submission topics, please review our Call for Papers page: <a href="https://learn-to-race.org/workshop-sl4ad-icml2022/calls.html" target="_blank">https://learn-to-race.org/workshop-sl4ad-icml2022/calls.html</a>
 
 
-
 ## Dates
 
 Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
@@ -674,7 +673,6 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Eric Nyberg</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Professor of Computer Science at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
 </div>
 </div>
@@ -687,8 +685,19 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sylvia Herbert</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director of Safe Autonomous Systems Lab; uncertainty modeling in control, safety-aware learning, autonomy</p>
+</div>
+</div>
+</a>
+
+<a href="http://www.cs.columbia.edu/~lierranli/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/li_erran_li.png" alt="Li Erran Li">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Li Erran Li</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Head of Science/HIL at Amazon AWS AI and Adjunct Professor at Columbia; Computer Vision, Machine Learning Systems, and Algorithms</p>
 </div>
 </div>
 </a>
