@@ -106,24 +106,23 @@ Additional notes:
 - Eric Nyberg; CMU
 - Sylvia L. Herbert; UCSD
 
-<!--
 ## Contact addresses
 
 - Re: general inquiries: sl4ad.workshop+info [AT] gmail.com
 - Re: paper submission inquiries: sl4ad.workshop+papers [AT] gmail.com
 - Re: challenge-related inquiries: sl4ad.workshop+challenge [AT] gmail.com
--->
 
 ## Important Dates (all tracks)
 
-Note: all deadlines are in <b>Central European Time (CET), UTC +1, Paris, Brussels, Vienna.</b>
+Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
 
 <!--- Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
 - Challenge winners notification (private): 21 February 2022-->
-- Challenge participation deadline (to be featured at the workshop): 6 May 2022
-- Paper submission (all tracks: paper, challenge): 13 May 2022
-- Reviewing starts: 14 May 2022
-- Reviewing ends: 30 May 2022
-- Notification of paper acceptance: 3 June 2022
+- Challenge participation deadline (to be featured at the workshop): 13 May 2022
+- Paper submission (all tracks: paper, challenge): 20 May 2022
+- Reviewing starts: 21 May 2022
+- Reviewing ends: 1 June 2022
+- Notification of paper acceptance: 6 June 2022
 - Camera-ready paper submission + video upload: 17 June 2022
-- Workshop Date: 23 July 2022
+- Poster image due: 10 July 2022
+- Workshop Date: 22 July 2022
