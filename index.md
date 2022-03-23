@@ -131,6 +131,14 @@ img {
 <script>
   var x = setInterval(function() {
     var d = new Date();
+    var n = d.toLocaleTimeString("en-US", {timeZone: "America/New_York", hour: '2-digit', minute:'2-digit', hour12: false})
+    document.getElementById("et").innerHTML = n
+  }, 1000);
+</script>
+
+<script>
+  var x = setInterval(function() {
+    var d = new Date();
     var n = d.toLocaleTimeString("en-US", {timeZone: "Europe/Vienna", hour: '2-digit', minute:'2-digit', hour12: false})
     document.getElementById("cet").innerHTML = n
   }, 1000);
@@ -229,7 +237,7 @@ Note: all deadlines are in <b>Eastern Time (ET), UTC -4, New York</b>.
 
 ## Schedule
 
-Saturday, 23 July, 2022. All times are in Central European Time (CET). Current time is <span id="cet"></span>.
+Friday, 22 July, 2022. All times are in Eastern Time (ET). Current time is <span id="et"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
