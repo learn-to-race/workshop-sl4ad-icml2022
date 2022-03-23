@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: IJCAI 2022 Workshop + Challenge
+excerpt: ICML 2022 Workshop + Challenge
 show_info: true
 titles:
   en      : &EN       Home
