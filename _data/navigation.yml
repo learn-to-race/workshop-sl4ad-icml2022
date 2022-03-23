@@ -1,0 +1,127 @@
+
+challenge-nav:
+  - title:      Overview
+    children:
+      - title:  Overview
+        url:    /challenge.html#challenge-overview
+      - title: Getting Started
+        url:    /challenge.html#getting-started
+  - title:      Environment
+    children:
+      - title:  Action Space
+        url:    /challenge.html#action-space
+      - title:  Observation Space
+        url:    /challenge.html#observation-space
+      - title:  Runtime Environment
+        url:    /challenge.html#runtime-environment
+      - title:  File Structure
+        url:    /challenge.html#file-structure
+  - title:      Evaluation
+    children:
+      - title:  Rules
+        url:    /challenge.html#rules
+      - title:  Competition Stages
+        url:    /challenge.html#competition-stages
+      - title:  Metrics
+        url:    /challenge.html#metrics
+
+header:
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Speakers
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /speakers.html
+#
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Schedule
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /schedule.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Calls
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /calls.html
+
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Rules
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /challenge.html
+
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Leaderboard
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /results.html
+#
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Papers
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /papers.html
+#
+  - titles:
+      # @start locale config
+      en      : &EN       Schedule
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#schedule
+
+  - titles:
+      # @start locale config
+      en      : &EN       Organisers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /index.html#organisers
+
+  - titles:
+      # @start locale config
+      en      : &EN       Challenge <svg width="12px" height="12px" viewBox="0 0 24 24" style="cursor:pointer"><g stroke-width="2.1" stroke="#666" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline><path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path></g></svg>
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge
+
+  - titles:
+      # @start locale config
+      en      : &EN       Learn-to-Race <svg width="12px" height="12px" viewBox="0 0 24 24" style="cursor:pointer"><g stroke-width="2.1" stroke="#666" fill="none" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline><path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path></g></svg>
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: https://learn-to-race.org
