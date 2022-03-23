@@ -194,18 +194,9 @@ Welcome to the 1st <a href="https://icml.cc/" target="_blank">ICML</a> Workshop 
 
 While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.<br>
 
-We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology. We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at IJCAI 2022.<br>
+We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology. We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at ICML 2022.<br>
 
 For more information on the tracks and submission topics, please review our Call for Papers page: <a href="https://learn-to-race.org/workshop-sl4ad-icml2022/calls.html" target="_blank">https://learn-to-race.org/workshop-sl4ad-icml2022/calls.html</a>
-
-<!--
-How to attend:
-<ul>
-<li>1. Register for IJCAI</li>
-<li>2. </li>
-<li>3.</li>
-</ul>
--->
 
 
 
