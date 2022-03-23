@@ -190,7 +190,7 @@ img {
 
 ## About
 
-Welcome to the 1st <a href="https://icml.cc/" target="_blank">ICML</a> Workshop on <i>Safe Learning for Autonomous Driving</i> (SL4AD)!
+Welcome to the 1st <a href="https://icml.cc/" target="_blank">ICML</a> Workshop on <i>Safe Learning for Autonomous Driving</i> (SL4AD).
 
 While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.<br>
 
@@ -238,7 +238,7 @@ Note: all deadlines are in <b>Eastern Time (ET), UTC -4, New York</b>.
 
 ## Schedule
 
-Friday, 22 July, 2022. All times are in Eastern Daylight Time (ET). Current time is <span id="edt"></span>.
+Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current time is <span id="edt"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
