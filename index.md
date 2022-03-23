@@ -211,7 +211,7 @@ How to attend:
 
 ## Dates
 
-Note: all deadlines are in <b>Eastern Time (ET), UTC -4, New York</b>.
+Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
 
 ### Paper Submission
 
