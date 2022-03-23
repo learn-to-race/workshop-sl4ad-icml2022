@@ -97,14 +97,15 @@ Additional notes:
 ## Organising Committee
 
 - Jonathan Francis; CMU + Bosch Research
-- Xinshuo Weng; CMU + NVIDIA Research
 - Hitesh Arora; Amazon
-- Siddha Ganju; NVIDIA
 - Bingqing Chen; CMU + Bosch Research
+- Xinshuo Weng; CMU + NVIDIA Research
+- Siddha Ganju; NVIDIA
 - Daniel Omeiza; Oxford
 - Jean Oh; CMU
 - Eric Nyberg; CMU
 - Sylvia L. Herbert; UCSD
+- Li Erran; Amazon
 
 ## Contact addresses
 
