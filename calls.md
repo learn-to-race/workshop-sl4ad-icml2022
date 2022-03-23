@@ -18,7 +18,7 @@ title:
 
 # Call for Papers
 
-<p>The 2nd Workshop on <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/" target="_blank">Artificial Intelligence for Autonomous Driving</a> (AI4AD) is co-located with the International Joint Conference on Artificial Intelligence (IJCAI 2022), to be held on 23 July 2022 in hybrid format.</p>
+<p>The 1st Workshop on <a href="https://learn-to-race.org/workshop-sl4ad-icml2022/" target="_blank">Safe Learning for Autonomous Driving</a> (SL4AD) is co-located with the International Conference on Machine Learning (ICML 2022), to be held on 22 July 2022 in hybrid format.</p>
 
 While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.<br>
 
@@ -78,10 +78,10 @@ Participants have special invitation to submit descriptions of their research, d
 
 > Submission deadline: <b>13 May 2022 at 23:59, Central European Time (CET)</b><br>
 > Submission format: either <b>extended abstracts</b> or <b>full papers</b>, 4 or 8 pages, respectively (excluding references and supplementary)<br>
-> Author kit: <a href="https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip" target="_blank">https://learn-to-race.org/workshop-ai4ad-ijcai2022/assets/FormattingGuidelines-IJCAI-ECAI-22.zip</a><br>
-> Submission site: <a href="https://cmt3.research.microsoft.com/AI4AD2022" target="_blank">https://cmt3.research.microsoft.com/AI4AD2022</a>
+> Author kit: <a href="https://learn-to-race.org/workshop-sl4ad-icml2022/assets/FormattingGuidelines-icml2022.zip" target="_blank">https://learn-to-race.org/workshop-sl4ad-icml2022/assets/FormattingGuidelines-icml2022.zip</a><br>
+> Submission site: <a href="https://cmt3.research.microsoft.com/SL4AD2022" target="_blank">https://cmt3.research.microsoft.com/SL4AD2022</a>
 
-We will follow the submission guidelines specified by IJCAI 2022, which can be found <a href="https://ijcai-22.org/calls-papers/" target="_blank">here</a>.
+We will follow the submission guidelines specified by ICML 2022, which can be found <a href="https://icml.cc/Conferences/2022/CallForPapers" target="_blank">here</a>.
 
 Additional notes:
 
