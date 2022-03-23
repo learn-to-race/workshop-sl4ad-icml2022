@@ -220,7 +220,7 @@ Note: all deadlines are in <b>Eastern Time (ET), UTC -4, New York</b>.
 > <b>Reviewing starts:</b> 21 May 2022<br>
 > <b>Reviewing ends:</b> 5 June 2022<br>
 > <b>Notification:</b> 6 June 2022<br>
-> <b>Camera Ready</b> + Video uploaded to Slideslive: 17 June 2022
+> <b>Camera Ready</b> + Video uploaded to Slideslive: 17 June 2022<br>
 > <b>Poster image due</b>: 10 July 2022
 
 <!--
