@@ -132,7 +132,7 @@ img {
   var x = setInterval(function() {
     var d = new Date();
     var n = d.toLocaleTimeString("en-US", {timeZone: "America/New_York", hour: '2-digit', minute:'2-digit', hour12: false})
-    document.getElementById("et").innerHTML = n
+    document.getElementById("edt").innerHTML = n
   }, 1000);
 </script>
 
@@ -215,12 +215,13 @@ Note: all deadlines are in <b>Eastern Time (ET), UTC -4, New York</b>.
 
 ### Paper Submission
 
-> <b>Submissions open:</b> 3 March 2022<br>
-> <b>Submissions due:</b> 13 May 2022<br>
-> <b>Reviewing starts:</b> 14 May 2022<br>
-> <b>Reviewing ends:</b> 30 May 2022<br>
-> <b>Notification:</b> 3 June 2022<br>
-> <b>Camera Ready</b> + Video upload: 17 June 2022
+> <b>Submissions open:</b> 23 March 2022<br>
+> <b>Submissions due:</b> 20 May 2022<br>
+> <b>Reviewing starts:</b> 21 May 2022<br>
+> <b>Reviewing ends:</b> 5 June 2022<br>
+> <b>Notification:</b> 6 June 2022<br>
+> <b>Camera Ready</b> + Video uploaded to Slideslive: 17 June 2022
+> <b>Poster image due</b>: 10 July 2022
 
 <!--
 ### Challenge Participation
@@ -233,11 +234,11 @@ Note: all deadlines are in <b>Eastern Time (ET), UTC -4, New York</b>.
 
 ### Workshop
 
-> <b>Event:</b> 23 July 2022
+> <b>Event:</b> 22 July 2022
 
 ## Schedule
 
-Friday, 22 July, 2022. All times are in Eastern Time (ET). Current time is <span id="et"></span>.
+Friday, 22 July, 2022. All times are in Eastern Daylight Time (ET). Current time is <span id="edt"></span>.
 
 <div style="display:block; width:900px; padding:20px; border:solid 4px #CCCCCC;">
 <div class="schedule-table-heading" style="margin-left:57px; display:inline-block; inline-size:100px;">Time</div>
