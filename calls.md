@@ -105,7 +105,7 @@ Additional notes:
 - Jean Oh; CMU
 - Eric Nyberg; CMU
 - Sylvia L. Herbert; UCSD
-- Li Erran; Amazon
+- Li Erran Li; Amazon
 
 ## Contact addresses
 
