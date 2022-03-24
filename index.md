@@ -430,11 +430,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Max Kumskoy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Head of Automated Driving Systems<br>ARRIVAL</p>
+<p style="margin:0 0 0 10px;">TBD</p>
+<p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
 </a>
