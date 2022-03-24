@@ -246,11 +246,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Max Kumskoy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">ARRIVAL</p>
+<p style="margin:0 0 0 10px;">Speaker TBD</p>
+<p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
 </div>
@@ -427,7 +427,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 
 <div style="display:block; padding:10px 0 0 0; width:900px;">
 
-<a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
+<a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
@@ -439,10 +439,10 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </a>
 
-<a href="https://www.amazon.science/author/sahika-genc" target="_blank" class="speaker_profile">
+<a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/emptyy.png" alt="">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
@@ -488,10 +488,10 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </a>
 
 
-<a href="https://safeai-lab.github.io/" target="_blank" class="speaker_profile">
+<a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/empty.png" alt="">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
