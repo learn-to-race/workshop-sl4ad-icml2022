@@ -30,7 +30,7 @@ github_username: learn-to-race
 # Build settings
 #theme: jekyll-text-theme
 remote_theme: kitian616/jekyll-text-theme
-highlight_theme: default
+highlight_theme: dark
 plugins:
   - jekyll-feed
 
