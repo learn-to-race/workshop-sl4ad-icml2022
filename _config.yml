@@ -30,10 +30,10 @@ github_username: learn-to-race
 # Build settings
 #theme: jekyll-text-theme
 remote_theme: kitian616/jekyll-text-theme
+text_skin: dark
 highlight_theme: default
 plugins:
   - jekyll-feed
-text_skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
