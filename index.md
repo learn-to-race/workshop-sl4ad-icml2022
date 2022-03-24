@@ -190,7 +190,7 @@ img {
 
 ## About
 
-Welcome to the 1st <a href="https://icml.cc/" target="_blank">ICML</a> Workshop on <i>Safe Learning for Autonomous Driving</i> (SL4AD).
+Welcome to the 1st Workshop on <i>Safe Learning for Autonomous Driving</i> (SL4AD), co-located with the International Conference on Machine Learning (ICML 2022), to be held on 22 July 2022 in hybrid format.
 
 While there have been significant advances in vehicle autonomy (e.g., perception, trajectory forecasting, planning and control, etc.), it is of paramount importance for autonomous systems to adhere to safety specifications, as any safety infraction in urban and highway driving, or high-speed racing could lead to catastrophic failures. Given this inherent tension between safety and performance, we introduce a new simulation environment in autonomous racing as a particularly challenging proving ground for safe learning algorithms.<br>
 
