@@ -30,6 +30,9 @@ github_username: learn-to-race
 # Build settings
 theme: jekyll-text-theme
   skin: dark
+jekyll-text-theme:
+  skin: dark
+
 #remote_theme: kitian616/jekyll-text-theme
 text_skin: dark
 text_color_theme: dark
