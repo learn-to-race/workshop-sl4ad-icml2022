@@ -249,7 +249,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
+<p style="margin:0 0 0 10px;">Speaker TBD</p>
 <p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
@@ -265,7 +265,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
+<p style="margin:0 0 0 10px;">Speaker TBD</p>
 <p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
@@ -356,7 +356,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
+<p style="margin:0 0 0 10px;">Speaker TBD</p>
 <p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
