@@ -14,6 +14,7 @@ article_header:
   type: overlay
   theme: dark
   align: left
+  background: "#000000"
   background_image:
     src: /assets/images/l2r_banner3.png
 #    gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
