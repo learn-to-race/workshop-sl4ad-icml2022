@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: ICML 2022 Workshop + Challenge
+excerpt: ICML 2022 Workshop + Challenge <br /> Jul. 22 | Baltimore (Hybrid)
 show_info: true
 titles:
   en      : &EN       Home
@@ -248,11 +248,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/ivan_istomin.png" alt="Ivan Istomin">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Ivan Istomin</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Roborace</p>
+<p style="margin:0 0 0 10px;">Speaker TBD</p>
+<p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
 </div>
@@ -337,6 +337,21 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 
 <div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Justyna Zander</p>
+<p style="margin:0 0 0 10px; font-size:10px;">NVIDIA</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
+</div>
+
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">15:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -351,13 +366,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol">16:00</div>
 <div class="schedule-table-eventcol">Break, Social, and Posters</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -372,7 +387,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-contentcol"><i>Safe Learning, Prediction, and Coordination for Autonomous Driving</i></div>
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -387,7 +402,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">18:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -396,21 +411,6 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">David Held</p>
 <p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">18:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/sergey_levine.png" alt="Sergey Levine">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sergey Levine</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UC Berkeley</p>
 </div>
 </div>
 </div>
@@ -429,14 +429,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 
 <div style="display:block; padding:10px 0 0 0; width:900px;">
 
-<a href="https://roborace.com/" target="_blank" class="speaker_profile">
+<a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/ivan_istomin.png" alt="">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Ivan Istomin</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Chief Metaverse Officer<br>Roborace</p>
+<p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
+<p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
 </a>
@@ -476,6 +476,19 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </a>
+
+<a href="https://blogs.nvidia.com/blog/author/justynaz/" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Justyna Zander</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Global Head of Verification and Validation for Autonomous Driving<br>NVIDIA</p>
+</div>
+</div>
+</a>
+
 
 <a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
@@ -521,18 +534,6 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">David Held</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
-</div>
-</div>
-</a>
-
-<a href="https://people.eecs.berkeley.edu/~svlevine/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/sergey_levine.png" alt="Sergey Levine">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sergey Levine</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Associate Professor<br>UC Berkeley</p>
 </div>
 </div>
 </a>
