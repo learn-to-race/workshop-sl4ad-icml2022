@@ -81,15 +81,11 @@ article_header:
     word-wrap: break-word;
 }
 
-.menu {
-    display:block;
-}
-
 .overlay__excerpt {
     margin: 20px 0 0 0;
 }
 
-ul.menu li::after {
+ul.menu::after {
     content:"22 July 2022 | Baltimore, Maryland, USA (Hybrid)";
 }
 
