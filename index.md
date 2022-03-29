@@ -84,11 +84,11 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"6 December 2021 - 15 February 2022";
+    content:"22 July 2022 | Baltimore, Maryland, USA (Hyybrid)";
 }
 
 ul.menu a {
-    display: none;
+    display: block;
 }
 
 .pc_list_item {
