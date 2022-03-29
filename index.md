@@ -1,8 +1,10 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
+articles:
+  excerpt_type: html
 excerpt: ICML 2022 Workshop + Challenge 
-         
+         <br>
          Jul. 22 | Baltimore (Hybrid)
 show_info: true
 titles:
