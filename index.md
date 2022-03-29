@@ -80,6 +80,10 @@ article_header:
     word-wrap: break-word;
 }
 
+.menu {
+    display:block;
+}
+
 .overlay__excerpt {
     margin: 20px 0 0 0;
 }
