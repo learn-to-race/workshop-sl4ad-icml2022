@@ -336,21 +336,6 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 
 <div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">15:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/justyna_zander.png" alt="Justyna Zander">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Justyna Zander</p>
-<p style="margin:0 0 0 10px; font-size:10px;">NVIDIA</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
-</div>
-
-<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">15:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -365,13 +350,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">16:00</div>
 <div class="schedule-table-eventcol">Break, Social, and Posters</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -386,7 +371,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-contentcol"><i>Safe Learning, Prediction, and Coordination for Autonomous Driving</i></div>
 </div>
 
-<div class="schedule-table-row-even">
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -401,7 +386,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">18:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -410,6 +395,21 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">David Held</p>
 <p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">18:00</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/sergey_levine.png" alt="Sergey Levine">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Sergey Levine</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Berkeley</p>
 </div>
 </div>
 </div>
