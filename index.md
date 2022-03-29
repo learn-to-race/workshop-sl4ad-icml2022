@@ -2,6 +2,7 @@
 layout: article
 title: Safe Learning for Autonomous Driving
 excerpt: ICML 2022 Workshop + Challenge
+menu: true
 show_info: true
 titles:
   en      : &EN       Home
@@ -84,7 +85,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"22 July 2022 | Baltimore, Maryland, USA (Hyybrid)";
+    content:"22 July 2022 | Baltimore, Maryland, USA (Hybrid)";
 }
 
 ul.menu a {
