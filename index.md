@@ -409,7 +409,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sergey Levine</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Berkeley</p>
+<p style="margin:0 0 0 10px; font-size:10px;">UC Berkeley</p>
 </div>
 </div>
 </div>
