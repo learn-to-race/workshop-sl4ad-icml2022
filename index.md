@@ -467,14 +467,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </a>
 
-<a href="https://joebetz.science/" target="_blank" class="speaker_profile">
+<a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Johannes Betz</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoctoral Researcher<br>University of Pennsylvania</p>
+<p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
+<p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
 </a>
@@ -503,14 +503,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </a>
 
-<a href="https://rowanmcallister.github.io/" target="_blank" class="speaker_profile">
+<a href="https://www.linkedin.com/in/kumarchellapilla/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/kumar_chellapilla.png" alt="Kumar Chellapilla">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Rowan McAllister</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Scientist<br>Toyota Research Institute</p>
+<p style="margin:0 0 0 10px;">Kumar Chellapilla</p>
+<p style="margin:0 0 0 10px; font-size:10px;">General Manager, ML/AI Services<br>Amazon AWS</p>
 </div>
 </div>
 </a>
