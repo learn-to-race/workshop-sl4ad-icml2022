@@ -323,18 +323,19 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">14:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
+<div class="schedule-table-eventcol">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Johannes Betz</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UPenn</p>
+<p style="margin:0 0 0 10px;">Speaker TBD</p>
+<p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Learning to Handle Autonomous Vehicles at the Limit - Experiences from Roborace and the Indy Autonomous Challenge</i></div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -378,11 +379,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/kumar_chellapilla.png" alt="Kumar Chellapilla">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Rowan McAllister</p>
-<p style="margin:0 0 0 10px; font-size:10px;">TRI</p>
+<p style="margin:0 0 0 10px;">Kumar Chellapilla</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Amazon AWS</p>
 </div>
 </div>
 </div>
