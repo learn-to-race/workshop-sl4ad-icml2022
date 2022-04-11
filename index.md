@@ -712,64 +712,47 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 1 -->
 <div style="width:201px; display:inline-block;">
 <ul>
-<li>Madhav Achar</li>
-<li>Matthew Bauch</li>
-<li><a href="https://manojbhat09.github.io/" target="_blank">Manoj Bhat</a></li>
-<li>Shravya Bhat</li>
-<li>Wenhao Ding</li>
-<li>Joe Fontaine</li>
-<li>Sahika Genc</li>
-<li>Shivam Goel</li>
-<li>James Herman</li>
-<li>Ruoxin Huang</li>
+<li>Eren Aksoy</li>
+<li>Dazhi Cheng</li>
+<li>Tiago Cortinhal</li>
+<li>Henggang Cui</li>
+<li>Xiaoxiao Du</li>
+<li>Hesham Eraqi</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Soonmin Hwang</li>
-<li>Jennifer Isaza</li>
-<li>Sidharth Kathpal</li>
-<li>Anirudh Koul</li>
-<li>Tanmay Kulkarni</li>
-<li>Ankit Laddha</li>
-<li>Jingyuan Li</li>
-<li>Sharada Mohanty</li>
-<li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
-<li>Aarati Noronha</li>
+<li>Xiangyu Gao</li>
+<li>S. Alireza Golestaneh</li>
+<li>Zehao Huang</li>
+<li>Fabian Hüger</li>
+<li>Arec Jamgochian</li>
+<li>Jian Li</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Alessandro Oltramari</li>
-<li>Karthik Paga</li>
-<li>Cameron Peron</li>
-<li>Ehsan Qasemi</li>
-<li>João Semedo</li>
-<li>Aditya Sharma</li>
-<li>Yash Shukla</li>
-<li>Jivko Sinapov</li>
-<li>Jayant Tamarapalli</li>
-<li>Gyan Tatiya</li>
+<li>Zhenning Li</li>
+<li>Wenhao Luo</li>
+<li>Yiwei Lyu</li>
+<li>Yunze Man</li>
+<li>Kunal Menda</li>
+<li>Pranjay Shyam</li>
 </ul>
 </div>
 
 <!-- column 4 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
-<li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
-<li>Sahiti Yerramilli</li>
-<li>Ivan Zhukov</li>
-<!--li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li-->
+<li>Zhaoen Su</li>
+<li>Arun Balajee Vasudevan</li>
+<li>Ram Vasudevan</li>
+<li>Moritz Werling</li>
+<li>Weiran Yao</li>
 </ul>
 </div>
 
