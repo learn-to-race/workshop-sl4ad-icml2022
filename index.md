@@ -331,7 +331,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Chelsea Finn</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor, Stanford; Google Brain</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Stanford + Google Brain</p>
 </div>
 </div>
 </div>
@@ -468,14 +468,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="speaker_profile">
+<a href="https://ai.stanford.edu/~cbfinn/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/empty.png" alt="">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/chelsea_finn.png" alt="Chelsea Finn">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Speaker<br>TBD</p>
-<p style="margin:0 0 0 10px; font-size:10px;">&nbsp;</p>
+<p style="margin:0 0 0 10px;">Chelsea Finn</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor, Stanford; Google Brain</p>
 </div>
 </div>
 </a>
