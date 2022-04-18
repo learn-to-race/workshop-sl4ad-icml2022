@@ -293,11 +293,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/todd_hester.png" alt="Todd Hester">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jaime Fisac</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Princeton</p>
+<p style="margin:0 0 0 10px;">Todd Hester</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Amazon Scout</p>
 </div>
 </div>
 </div>
@@ -456,14 +456,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </a>
 
-<a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" target="_blank" class="speaker_profile">
+<a href="https://www.cs.utexas.edu/~todd/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/todd_hester.png" alt="Todd Hester">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jaime Fisac</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Princeton University</p>
+<p style="margin:0 0 0 10px;">Todd Hester</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Applied Scientist Lead<br>Amazon Scout</p>
 </div>
 </div>
 </a>
