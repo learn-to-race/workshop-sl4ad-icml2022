@@ -338,7 +338,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-contentcol">Talk title TBD</div>
 </div>
 
-<div class="schedule-table-row-odd">
+<div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
