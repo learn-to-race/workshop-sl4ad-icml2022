@@ -720,29 +720,35 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Henggang Cui</li>
 <li>Xiaoxiao Du</li>
 <li>Hesham Eraqi</li>
+<li>Xiangyu Gao</li>
+<li>S. Alireza Golestaneh</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Xiangyu Gao</li>
-<li>S. Alireza Golestaneh</li>
 <li>Zehao Huang</li>
 <li>Fabian Hüger</li>
 <li>Arec Jamgochian</li>
 <li>Jian Li</li>
+<li>Zhenning Li</li>
+<li>Kevin Luo</li>
+<li>Wenhao Luo</li>
+<li>Yiwei Lyu</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Zhenning Li</li>
-<li>Wenhao Luo</li>
-<li>Yiwei Lyu</li>
 <li>Yunze Man</li>
 <li>Kunal Menda</li>
+<li>Praveen Palanisamy</li>
+<li>Daniele Reda</li>
+<li>Nazmus Sakib</li>
+<li>Aman Sinha</li>
+<li>Ashutosh Singh</li>
 <li>Pranjay Shyam</li>
 </ul>
 </div>
@@ -750,6 +756,8 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 4 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Mark Schutera</li>
+<li>Adam Scibior</li>
 <li>Zhaoen Su</li>
 <li>Arun Balajee Vasudevan</li>
 <li>Ram Vasudevan</li>
