@@ -293,11 +293,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/todd_hester.png" alt="Todd Hester">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/melanie_zeilinger.png" alt="Melanie Zeilinger">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Todd Hester</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Amazon Scout</p>
+<p style="margin:0 0 0 10px;">Melanie Zeilinger</p>
+<p style="margin:0 0 0 10px; font-size:10px;">ETH Zürich</p>
 </div>
 </div>
 </div>
@@ -323,6 +323,22 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 
 <div class="schedule-table-row-odd">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
+<div class="schedule-table-eventcol">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/todd_hester.png" alt="Todd Hester">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Todd Hester</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Amazon Scout</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol">Talk title TBD</div>
+</div>
+
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
 <div class="schedule-table-eventcol">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
@@ -336,6 +352,12 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 <div class="schedule-table-contentcol">Talk title TBD</div>
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol">16:00</div>
+<div class="schedule-table-eventcol">Break, Social, and Posters</div>
+<!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
 <div class="schedule-table-row-even">
@@ -352,27 +374,6 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 <div class="schedule-table-contentcol">Talk title TBD</div>
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol">16:00</div>
-<div class="schedule-table-eventcol">Break, Social, and Posters</div>
-<!--div class="schedule-table-contentcol">Content</div-->
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Changliu Liu</p>
-<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
-</div>
-</div>
-</div>
-<div class="schedule-table-contentcol"><i>Safe Learning, Prediction, and Coordination for Autonomous Driving</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
