@@ -448,11 +448,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <a href="https://www.cs.utexas.edu/~pstone/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Peter Stone</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor; Executive Director, Sony AI; Assoc. Chair, CS<br>UT Austin</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor; Exec. Director, Sony AI; Assoc. Chair, CS<br>UT Austin</p>
 </div>
 </div>
 </a>
