@@ -43,7 +43,6 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - Explainability in autonomous driving
 - Learning to drive via imitation learning
 - Learning to drive via distribution awareness
-- Robustness to out-of-distribution road scenes
 - Uncertainty propagation through autonomous driving pipelines
 - Planning and control for autonomous driving
 - Cooperative and competitive multi-agent systems
