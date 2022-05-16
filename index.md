@@ -496,11 +496,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <a href="https://people.eecs.berkeley.edu/~abajcsy/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/andrea_bajcsy.png" alt="">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/andrea_bajcsy.png" alt="Andrea Bajcsy">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Andrea Bajcsy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UB Berkeley</p>
+<p style="margin:0 0 0 10px; font-size:10px;">UC Berkeley</p>
 </div>
 </div>
 </a>
