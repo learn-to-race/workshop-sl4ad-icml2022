@@ -762,6 +762,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Arun Balajee Vasudevan</li>
 <li>Ram Vasudevan</li>
 <li>Moritz Werling</li>
+<li>Yujie Wei</li>
 <li>Weiran Yao</li>
 </ul>
 </div>
