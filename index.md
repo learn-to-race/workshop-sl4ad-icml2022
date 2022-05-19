@@ -209,22 +209,12 @@ Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
 
 ### Paper Submission
 
-> <b>Submissions open:</b> 23 March 2022<br>
-> <b>Submissions due:</b> 20 May 2022<br>
-> <b>Reviewing starts:</b> 21 May 2022<br>
-> <b>Reviewing ends:</b> 4 June 2022<br>
-> <b>Notification:</b> 6 June 2022<br>
-> <b>Camera Ready</b> + Video uploaded to Slideslive: 17 June 2022<br>
-> <b>Poster image due</b>: 10 July 2022
-
-<!--
-### Challenge Participation
-
-> <b>Open:</b> TBD<br>
-> <b>Close:</b> TBD<br>
-> <b>Winners notification:</b> TBD<br>
-> <b>Close:</b> 15 February 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>
-> <b>Winners notification:</b> 21 February 2022-->
+<div>
+<b>Submissions open:</b> 23 March 2022<br>
+<b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">20 May 2022</p><p style="display:inline; color:red;">&nbsp;27 May 2022</p><br>
+<b>Notification:</b> 6 June 2022<br>
+<b>Camera Ready</b> + Video upload: 17 June 2022
+</div>
 
 ### Workshop
 

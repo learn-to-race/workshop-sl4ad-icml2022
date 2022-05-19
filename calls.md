@@ -116,13 +116,11 @@ Additional notes:
 
 Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
 
-<!--- Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
-- Challenge winners notification (private): 21 February 2022-->
-- Challenge participation deadline (to be featured at the workshop): 13 May 2022
-- Paper submission (all tracks: paper, challenge): 20 May 2022
-- Reviewing starts: 21 May 2022
-- Reviewing ends: 4 June 2022
-- Notification of paper acceptance: 6 June 2022
-- Camera-ready paper submission + video upload: 17 June 2022
-- Poster image due: 10 July 2022
-- Workshop Date: 22 July 2022
+<div>
+Paper submissions open: 3 March 2022<br>
+Challenge participation deadline (to be featured at the workshop): 13 May 2022<br>
+Paper submissions due: <p style="display:inline; text-decoration:line-through;">20 May 2022</p><p style="display:inline; color:red;">&nbsp;27 May 2022</p><br>
+Notification: 6 June 2022<br>
+Camera Ready + Video upload: 17 June 2022<br>
+Workshop Date: 22 July 2022
+</div>
