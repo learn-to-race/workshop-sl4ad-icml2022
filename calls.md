@@ -75,7 +75,7 @@ Participants have special invitation to submit descriptions of their research, d
 
 ## Paper Submission Guidelines
 
-> Submission deadline: <b>20 May 2022 at 23:59, Eastern Daylight Time (EDT)</b><br>
+> Submission deadline: <b>27 May 2022 at 23:59, Eastern Daylight Time (EDT)</b><br>
 > Submission format: either <b>extended abstracts</b> or <b>full papers</b>, 4 or 8 pages, respectively (excluding references and supplementary)<br>
 > Author kit: <a href="https://learn-to-race.org/workshop-sl4ad-icml2022/assets/FormattingGuidelines-icml2022.zip" target="_blank">https://learn-to-race.org/workshop-sl4ad-icml2022/assets/FormattingGuidelines-icml2022.zip</a><br>
 > Submission site: <a href="https://cmt3.research.microsoft.com/SL4AD2022" target="_blank">https://cmt3.research.microsoft.com/SL4AD2022</a>
@@ -117,7 +117,7 @@ Additional notes:
 Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
 
 <div>
-Paper submissions open: 3 March 2022<br>
+Paper submissions open: 23 March 2022<br>
 Challenge participation deadline (to be featured at the workshop): 13 May 2022<br>
 Paper submissions due: <p style="display:inline; text-decoration:line-through;">20 May 2022</p><p style="display:inline; color:red;">&nbsp;27 May 2022</p><br>
 Notification: 6 June 2022<br>
