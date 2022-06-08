@@ -754,7 +754,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 ---
 
 <b>ER</b> — <i>Recognises PC member who served ("+" additionally) as an Emergency Reviewer.</i><br>
-<b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 18% of Reviewers.</i>
+<b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 15% of Reviewers.</i>
 
 ## Sponsors
 
