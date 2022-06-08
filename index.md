@@ -715,27 +715,28 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Xiaoxiao Du</li>
 <li>Hesham Eraqi</li>
 <li>Xiangyu Gao</li>
+<li>Sahika Genc</li>
 <li>S. Alireza Golestaneh</li>
-<li>Zehao Huang</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
+<li>Zehao Huang</li>
 <li>Fabian Hüger</li>
 <li>Arec Jamgochian</li>
 <li>Wenhao Luo</li>
 <li>Kunal Menda</li>
 <li>Praveen Palanisamy</li>
 <li>Daniele Reda</li>
-<li>Nazmus Sakib</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div class="pc-column">
 <ul>
+<li>Nazmus Sakib</li>
 <li>Pranjay Shyam</li>
 <li>Mark Schutera</li>
 <li>Zhaoen Su</li>
