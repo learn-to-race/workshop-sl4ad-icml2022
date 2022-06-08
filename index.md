@@ -710,13 +710,14 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 1 -->
 <div class="pc-column">
 <ul>
+<li>Arav Agarwal (<b>ER</b>, <b>TR</b>)</li>
 <li>Eren Aksoy</li>
 <li>Tiago Cortinhal</li>
-<li>Xiaoxiao Du</li>
+<li>Xiaoxiao Du (<b>TR</b>)</li>
 <li>Hesham Eraqi</li>
 <li>Xiangyu Gao</li>
-<li>Sahika Genc</li>
-<li>S. Alireza Golestaneh</li>
+<li>Sahika Genc (<b>ER</b>)</li>
+<li>S. Alireza Golestaneh (<b>TR</b>)</li>
 </ul>
 </div>
 
@@ -725,11 +726,11 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <ul>
 <li>Zehao Huang</li>
 <li>Fabian Hüger</li>
-<li>Arec Jamgochian</li>
+<li>Arec Jamgochian (<b>TR</b>)</li>
 <li>Wenhao Luo</li>
 <li>Kunal Menda</li>
 <li>Praveen Palanisamy</li>
-<li>João Pinho</li>
+<li>João Pinho (<b>ER</b>)</li>
 <li>Daniele Reda</li>
 </ul>
 </div>
@@ -748,6 +749,9 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 
 ---
+
+<b>ER</b> — <i>Recognises PC member who served ("+" additionally) as an Emergency Reviewer.</i><br>
+<b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 18% of Reviewers.</i>
 
 ## Sponsors
 
