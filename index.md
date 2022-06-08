@@ -714,6 +714,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Eren Aksoy</li>
 <li>Tiago Cortinhal</li>
 <li>Xiaoxiao Du (<b>TR</b>)</li>
+<li>Isht Dwivedi</li>
 <li>Hesham Eraqi</li>
 <li>Xiangyu Gao</li>
 <li>Sahika Genc (<b>ER</b>)</li>
@@ -728,16 +729,18 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Fabian Hüger</li>
 <li>Arec Jamgochian (<b>TR</b>)</li>
 <li>Wenhao Luo</li>
+<li>Raghuram Mandyam Annasamy</li>
 <li>Kunal Menda</li>
+<li>Aarati Noronha</li>
 <li>Praveen Palanisamy</li>
 <li>João Pinho (<b>ER</b>)</li>
-<li>Daniele Reda</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div class="pc-column">
 <ul>
+<li>Daniele Reda</li>
 <li>Nazmus Sakib</li>
 <li>Pranjay Shyam</li>
 <li>Mark Schutera</li>
