@@ -94,6 +94,12 @@ ul.menu a {
     display: none;
 }
 
+.pc-column {
+    width:270px;
+    display:inline-block;
+    vertical-align: top;
+}
+
 .pc_list_item {
     display:inline-block;
     width:200px;
@@ -702,56 +708,38 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 ## Program Committee
 
 <!-- column 1 -->
-<div style="width:201px; display:inline-block;">
+<div class="pc-column">
 <ul>
 <li>Eren Aksoy</li>
-<li>Dazhi Cheng</li>
 <li>Tiago Cortinhal</li>
-<li>Henggang Cui</li>
 <li>Xiaoxiao Du</li>
 <li>Hesham Eraqi</li>
 <li>Xiangyu Gao</li>
 <li>S. Alireza Golestaneh</li>
+<li>Zehao Huang</li>
 </ul>
 </div>
 
 <!-- column 2 -->
-<div style="width:201px; display:inline-block; vertical-align: top;">
+<div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
-<li>Zehao Huang</li>
 <li>Fabian Hüger</li>
 <li>Arec Jamgochian</li>
-<li>Jian Li</li>
-<li>Zhenning Li</li>
-<li>Kevin Luo</li>
 <li>Wenhao Luo</li>
-<li>Yiwei Lyu</li>
-</ul>
-</div>
-
-<!-- column 3 -->
-<div style="width:201px; display:inline-block; vertical-align: top;">
-<ul>
-<li>Yunze Man</li>
 <li>Kunal Menda</li>
 <li>Praveen Palanisamy</li>
 <li>Daniele Reda</li>
 <li>Nazmus Sakib</li>
-<li>Aman Sinha</li>
-<li>Ashutosh Singh</li>
-<li>Pranjay Shyam</li>
 </ul>
 </div>
 
-<!-- column 4 -->
-<div style="width:201px; display:inline-block; vertical-align: top;">
+<!-- column 3 -->
+<div class="pc-column">
 <ul>
+<li>Pranjay Shyam</li>
 <li>Mark Schutera</li>
-<li>Adam Scibior</li>
 <li>Zhaoen Su</li>
-<li>Arun Balajee Vasudevan</li>
 <li>Ram Vasudevan</li>
-<li>Moritz Werling</li>
 <li>Yujie Wei</li>
 <li>Weiran Yao</li>
 </ul>
