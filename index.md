@@ -729,6 +729,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Wenhao Luo</li>
 <li>Kunal Menda</li>
 <li>Praveen Palanisamy</li>
+<li>João Pinho</li>
 <li>Daniele Reda</li>
 </ul>
 </div>
