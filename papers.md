@@ -135,6 +135,12 @@ title:
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">Learn-to-Race Challenge 2022: Benchmarking Safe Learning and Cross-domain Generalisation in Autonomous Racing</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Jonathan Francis, Bingqing Chen, Siddha Ganju, Sidharth Kathpal, Jyotish Poonganam, Ayush Shivani, Vrushank Vyas, Sahika Genc, Ivan Zhukov, Max Kumskoy, Jean Oh, Eric Nyberg, Sylvia L. Herbert</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[Paper] [Poster] [Code] [Video]</p>
+</div>
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Jonathan Francis, Bingqing Chen, Weiran Yao, Eric Nyberg, Jean Oh</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[Paper] [Poster] [Code] [Video]</p>
