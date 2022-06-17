@@ -211,7 +211,7 @@ For more information on the tracks and submission topics, please review our Call
 
 ## Dates
 
-Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
+Note: all deadlines are in <b>Anywhere on Earth</b>.
 
 ### Paper Submission
 
@@ -223,9 +223,9 @@ Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
 <b>Oral/Poster video upload</b>: 1 July 2022
 </div>
 
-### Workshop
+### Workshop Event
 
-> <b>Event:</b> 22 July 2022
+<b>Date:</b> 22 July 2022
 
 ## Schedule
 
