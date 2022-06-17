@@ -219,7 +219,8 @@ Note: all deadlines are in <b>Eastern Daylight Time (EDT), UTC -4, New York</b>.
 <b>Submissions open:</b> 23 March 2022<br>
 <b>Submissions due:</b> <p style="display:inline; text-decoration:line-through;">20 May 2022</p><p style="display:inline; color:red;">&nbsp;27 May 2022</p><br>
 <b>Notification:</b> 6 June 2022<br>
-<b>Camera Ready</b> + Video upload: 17 June 2022
+<b>Camera Ready</b>: 17 June 2022
+<b>Oral/Poster video upload</b>: 24 June 2022
 </div>
 
 ### Workshop
