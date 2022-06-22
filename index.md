@@ -729,7 +729,6 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <li>Zehao Huang</li>
 <li>Fabian Hüger</li>
 <li>Arec Jamgochian (<b>TR</b>)</li>
-<li>Wenhao Luo</li>
 <li>Raghuram Mandyam Annasamy</li>
 <li>Kunal Menda</li>
 <li>Aarati Noronha</li>
