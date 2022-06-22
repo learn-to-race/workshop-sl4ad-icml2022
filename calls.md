@@ -122,6 +122,6 @@ Challenge participation deadline (to be featured at the workshop): 13 May 2022<b
 Paper submissions due: <p style="display:inline; text-decoration:line-through;">20 May 2022</p><p style="display:inline; color:red;">&nbsp;27 May 2022</p><br>
 Notification: 6 June 2022<br>
 Camera Ready: 17 June 2022<br>
-Oral/Poster video upload: 24 June 2022<br>
+Oral/Poster video upload: 1 July 2022<br>
 Workshop Date: 22 July 2022
 </div>
