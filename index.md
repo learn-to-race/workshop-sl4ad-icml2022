@@ -585,7 +585,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
 <!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch; domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch, focusing domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
 </div>
 </div>
 </a>
@@ -611,7 +611,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Bingqing Chen</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Research Scientist at Bosch, focusing on constraint-based optimisation, physical mechanisms, and safe learning, applied to autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at Bosch, focusing on constraint-based optimisation, physical mechanisms, and safe learning, applied to autonomous driving</p>
 </div>
 </div>
 </a>
