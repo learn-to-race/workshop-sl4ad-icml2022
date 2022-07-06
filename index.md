@@ -260,13 +260,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 
 <div class="schedule-table-row-even">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">09:30</div>
-<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div class="schedule-table-eventcol">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/melanie_zeilinger.png" alt="Melanie Zeilinger">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Peter Stone</p>
-<p style="margin:0 0 0 10px; font-size:10px;">UT Austin; Sony AI</p>
+<p style="margin:0 0 0 10px;">Melanie Zeilinger</p>
+<p style="margin:0 0 0 10px; font-size:10px;">ETH Zürich</p>
 </div>
 </div>
 </div>
@@ -287,14 +288,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
-<div class="schedule-table-eventcol">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/melanie_zeilinger.png" alt="Melanie Zeilinger">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Melanie Zeilinger</p>
-<p style="margin:0 0 0 10px; font-size:10px;">ETH Zürich</p>
+<p style="margin:0 0 0 10px;">Peter Stone</p>
+<p style="margin:0 0 0 10px; font-size:10px;">UT Austin; Sony AI</p>
 </div>
 </div>
 </div>
@@ -442,18 +442,6 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </a>
 
-<a href="https://www.cs.utexas.edu/~pstone/" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Peter Stone</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Professor; Exec. Director, Sony AI America; Assoc. Chair, CS<br>UT Austin</p>
-</div>
-</div>
-</a>
-
 <a href="https://idsc.ethz.ch/research-zeilinger/people/person-detail.MTQyNzM3.TGlzdC8xOTI5LDg4NTM5MTE3.html" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
@@ -462,6 +450,18 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Melanie Zeilinger</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>ETH Zürich</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.cs.utexas.edu/~pstone/" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Peter Stone</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor; Exec. Director, Sony AI America; Assoc. Chair, CS<br>UT Austin</p>
 </div>
 </div>
 </a>
