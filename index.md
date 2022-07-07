@@ -287,6 +287,18 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 
 <div class="schedule-table-row-odd">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
+<div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
+<!--div class="schedule-table-contentcol">Content</div-->
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol">12:00</div>
+<div class="schedule-table-eventcol">Lunch + Social</div>
+<!--div class="schedule-table-contentcol">Content</div-->
+</div>
+
+<div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
@@ -298,19 +310,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
-</div>
-
-<div class="schedule-table-row-even">
-<div class="schedule-table-timecol">12:00</div>
-<div class="schedule-table-eventcol">Lunch + Social</div>
-<!--div class="schedule-table-contentcol">Content</div-->
-</div>
-
-<div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
-<div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
-<!--div class="schedule-table-contentcol">Content</div-->
+<div class="schedule-table-contentcol">Reward (Mis)design for Autonomous Driving and Accumulating Safety Rules from Catastrophic Action Effects</div>
 </div>
 
 <div class="schedule-table-row-even">
