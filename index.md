@@ -287,7 +287,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
 <div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
@@ -299,7 +299,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 
 <div class="schedule-table-row-odd">
-<div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
+<div class="schedule-table-timecol" style="vertical-align: 10px;">13:30</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
 <img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/peter_stone.png" alt="Peter Stone">
