@@ -624,7 +624,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Xinshuo Weng</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at NVIDIA; focusing on 3D computer vision and generative models for autonomous systems</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Research Scientist at NVIDIA Research; focusing on 3D computer vision and generative models for autonomous systems</p>
 </div>
 </div>
 </a>
