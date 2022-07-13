@@ -254,7 +254,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Self-supervised learning for autonomous driving</div>
+<div class="schedule-table-contentcol"><i>Self-supervised learning for autonomous driving</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -369,7 +369,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Reward (Mis)design for Autonomous Driving and Accumulating Safety Rules from Catastrophic Action Effects</div>
+<div class="schedule-table-contentcol"><i>Reward (Mis)design for Autonomous Driving and Accumulating Safety Rules from Catastrophic Action Effects</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -421,7 +421,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Multi-modal sensor fusion for the Amazon Scout robot</div>
+<div class="schedule-table-contentcol"><i>Multi-modal sensor fusion for the Amazon Scout robot</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -437,7 +437,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Learning How To Be Safe</div>
+<div class="schedule-table-contentcol"><i>Learning How To Be Safe</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -459,7 +459,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Safety Assurances for Human-Robot Interaction via Confidence-aware Game-theoretic Human Models</div>
+<div class="schedule-table-contentcol"><i>Safety Assurances for Human-Robot Interaction via Confidence-aware Game-theoretic Human Models</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -489,7 +489,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Reinforcement Learning as Data-Driven Decision Making</div>
+<div class="schedule-table-contentcol"><i>Reinforcement Learning as Data-Driven Decision Making</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
