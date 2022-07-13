@@ -291,13 +291,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Zuxin Liu</p>
 <p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -306,13 +306,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Linrui Zhang</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Tsinghua University</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -327,13 +327,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Shivansh Beohar</p>
 <p style="margin:0 0 0 10px; font-size:10px;">IIIT Allahabad</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#11: Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#11: Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -342,13 +342,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Matthew R Howe</p>
 <p style="margin:0 0 0 10px; font-size:10px;">U Adelaide</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#14: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#14: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -384,13 +384,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Weiran Yao</p>
 <p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -399,13 +399,13 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div style="display:inline-block; width:60px;">
 &nbsp;
 </div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
+<div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
 <p style="margin:0 0 0 10px;">Zuxin Liu</p>
 <p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
