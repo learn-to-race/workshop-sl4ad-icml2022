@@ -217,8 +217,7 @@ We envision this workshop bringing together researchers and industry practitione
 <li>Learning vehicle dynamics at high-speeds and in unstable regimes</li>
 <li>Vision-based perception and scene understanding for autonomous driving</li>
 <li>Representation learning for visuomotor control</li>
-<li>Transfer learning; simulation to real-world; meta-learning; domain adaptation; *-shot learning; self/semi/weakly-supervised learning</li>
-<li>Multi-task learning in autonomous driving</li>
+<li>Transfer learning; simulation to real-world; meta-learning; domain adaptation; *-shot learning; self/semi/weakly-supervised learning; multi-task learning</li>
 <li>End-to-end and real-time autonomous driving systems</li>
 <li>Novel automotive sensors and their applications</li>
 <li>Trajectory forecasting; Behavior prediction of pedestrians, vehicles, and animals</li>
