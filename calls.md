@@ -28,8 +28,7 @@ We envision this workshop bringing together researchers and industry practitione
 
 We are accepting papers in the following broad areas of safe vehicle autonomy, including (but not limited to):
 
-- Safe reinforcement learning, safe exploration, constrained reinforcement learning
-- Safe learning approaches inspired by control theory, e.g., control barrier function, Lyapunov method, reachability analysis
+- Safe reinforcement learning, safe exploration, constrained reinforcement learning, safe learning + control theory
 - Safety verification, certifying learning-based control under dynamical uncertainty, dependability analysis
 - Robustness to out-of-distribution road scenes
 - Learning vehicle dynamics at high-speeds and in unstable regimes
@@ -39,18 +38,17 @@ We are accepting papers in the following broad areas of safe vehicle autonomy, i
 - Multi-task learning in autonomous driving
 - End-to-end and real-time autonomous driving systems
 - Novel automotive sensors and their applications
-- Behavior prediction of pedestrians, vehicles, and animals; trajectory forecasting
+- Trajectory forecasting; Behavior prediction of pedestrians, vehicles, and animals
 - Explainability in autonomous driving
 - Learning to drive via imitation learning
 - Learning to drive via distribution awareness
 - Uncertainty propagation through autonomous driving pipelines
-- Planning and control for autonomous driving
+- Classical planning and control for autonomous driving
 - Cooperative and competitive multi-agent systems
 - Visual grounding and its application to autonomous driving
 - Vision-language navigation for autonomous driving
 - Audio-visual navigation for autonomous driving
-- Neuro-symbolic approaches in autonomous driving
-- Knowledge representation and reasoning for autonomous driving
+- Neuro-symbolic approaches in autonomous driving; Knowledge representation and reasoning
 - Auditory perception (detection, tracking, segmentation, motion estimation, etc)
 - Brain-inspired autonomous control systems
 - Human factors in autonomous driving

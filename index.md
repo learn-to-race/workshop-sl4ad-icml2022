@@ -206,8 +206,46 @@ While there have been significant advances in vehicle autonomy (e.g., perception
 
 We envision this workshop bringing together researchers and industry practitioners from different AI subfields to work towards safer and more robust autonomous technology. We encourage participants to take part in the Challenge by competing for top leaderboard positions, to submit articles for review, and to engage with us at ICML 2022.<br>
 
-For more information on the tracks and submission topics, please review our Call for Papers page: <a href="https://learn-to-race.org/workshop-sl4ad-icml2022/calls.html" target="_blank">https://learn-to-race.org/workshop-sl4ad-icml2022/calls.html</a>
+### Topics covered
 
+<div>
+<div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
+<ul>
+<li>Safe reinforcement learning, safe exploration, constrained reinforcement learning, safe learning + control theory</li>
+<li>Safety verification, certifying learning-based control under dynamical uncertainty, dependability analysis</li>
+<li>Robustness to out-of-distribution road scenes</li>
+<li>Learning vehicle dynamics at high-speeds and in unstable regimes</li>
+<li>Vision-based perception and scene understanding for autonomous driving</li>
+<li>Representation learning for visuomotor control</li>
+<li>Transfer learning; simulation to real-world; meta-learning; domain adaptation; *-shot learning; self/semi/weakly-supervised learning</li>
+<li>Multi-task learning in autonomous driving</li>
+<li>End-to-end and real-time autonomous driving systems</li>
+<li>Novel automotive sensors and their applications</li>
+<li>Trajectory forecasting; Behavior prediction of pedestrians, vehicles, and animals</li>
+<li>Explainability in autonomous driving</li>
+<li>Learning to drive via imitation learning</li>
+<li>Learning to drive via distribution awareness</li>
+</ul>
+</div>
+<div style="width:49%; display:inline-block; font-size:14px; vertical-align:top">
+<ul>
+<li>Uncertainty propagation through autonomous driving pipelines</li>
+<li>Classical planning and control for autonomous driving</li>
+<li>Cooperative and competitive multi-agent systems</li>
+<li>Visual grounding and its application to autonomous driving</li>
+<li>Vision-language navigation for autonomous driving</li>
+<li>Audio-visual navigation for autonomous driving</li>
+<li>Neuro-symbolic approaches in autonomous driving; Knowledge representation and reasoning</li>
+<li>Auditory perception (detection, tracking, segmentation, motion estimation, etc)</li>
+<li>Brain-inspired autonomous control systems</li>
+<li>Human factors in autonomous driving</li>
+<li>AI ethics in autonomous driving</li>
+<li>Autonomous driving datasets, simulation, evaluations, and metrics</li>
+<li>Connected autonomous driving, vehicle-to-vehicle, vehicle-to-infrastructure communication, digital twins</li>
+<li>Autonomous driving for traffic management and emission reduction; intelligent transportation systems</li>
+</ul>
+</div>
+</div>
 
 ## Dates
 
