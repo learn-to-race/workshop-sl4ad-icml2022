@@ -297,7 +297,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -312,7 +312,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -333,7 +333,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#11: Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#11: Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -348,7 +348,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#14: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#14: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -390,7 +390,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -405,7 +405,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
