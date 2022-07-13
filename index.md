@@ -332,7 +332,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
+<div class="schedule-table-contentcol">Multi-modal sensor fusion for the Amazon Scout robot</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -348,7 +348,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
+<div class="schedule-table-contentcol">Learning How To Be Safe</div>
 </div>
 
 <div class="schedule-table-row-odd">
