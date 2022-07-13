@@ -285,10 +285,70 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <!--div class="schedule-table-contentcol">Content</div-->
 </div>
 
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Zuxin Liu</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Linrui Zhang</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Tsinghua University</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></div>
+</div>
+
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">11:30</div>
 <div class="schedule-table-eventcol">Autonomous Racing Virtual Challenge: Contributed Talks</div>
 <!--div class="schedule-table-contentcol">Content</div-->
+</div>
+
+<div class="schedule-table-row-odd">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Weiran Yao</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Zuxin Liu</p>
+<p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -316,6 +376,36 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-timecol">14:00</div>
 <div class="schedule-table-eventcol">Spotlight Talks</div>
 <!--div class="schedule-table-contentcol">Content</div-->
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Shunli Ren</p>
+<p style="margin:0 0 0 10px; font-size:10px;">SJTU</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#9: Robust Collaborative Perception against Communication Interruption</i></div>
+</div>
+
+<div class="schedule-table-row-even">
+<div class="schedule-table-timecol" style="vertical-align: 10px;">&nbsp;</div>
+<div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:60px;">
+&nbsp;
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Balint Gyevnar</p>
+<p style="margin:0 0 0 10px; font-size:10px;">U Edinburgh</p>
+</div>
+</div>
+</div>
+<div class="schedule-table-contentcol"><i>#16: A Human-Centric Method for Generating Causal Explanations in Natural Language for Autonomous Vehicle Motion Planning</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
