@@ -812,6 +812,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <ul>
 <li>Arav Agarwal (<b>ER</b>, <b>TR</b>)</li>
 <li>Eren Aksoy</li>
+<li>Raghuram Mandyam Annasamy</li>
 <li>Tiago Cortinhal</li>
 <li>Xiaoxiao Du (<b>TR</b>)</li>
 <li>Isht Dwivedi</li>
@@ -825,10 +826,12 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <!-- column 2 -->
 <div class="pc-column" style="margin:0 30px 0 0;">
 <ul>
+<li>David Held (<b>SMR</b>)</li>
+<li>Todd Hester (<b>SMR</b>)</li>
 <li>Zehao Huang</li>
 <li>Fabian Hüger</li>
 <li>Arec Jamgochian (<b>TR</b>)</li>
-<li>Raghuram Mandyam Annasamy</li>
+<li>Rowan McAllister (<b>SMR</b>)</li>
 <li>Kunal Menda</li>
 <li>Aarati Noronha</li>
 <li>Praveen Palanisamy</li>
@@ -854,6 +857,7 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 
 <b>ER</b> — <i>Recognises PC member who served ("+" additionally) as an Emergency Reviewer.</i><br>
 <b>TR</b> — <i>Recognises PC member who, according to Chair ratings, ranked in the Top 15% of Reviewers.</i>
+<b>SMR</b> — <i>Recognises PC member who agreed to provide their services as a Senior Meta-Reviewer.</i>
 
 ## Sponsors
 
