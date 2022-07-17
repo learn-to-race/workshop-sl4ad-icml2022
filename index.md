@@ -329,7 +329,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 &nbsp;
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4; margin:0 0 0 40px">
-<p style="margin:0 0 0 10px;">Zuxin Liu</p>
+<p style="margin:0 0 0 10px;">Zijian Guo</p>
 <p style="margin:0 0 0 10px; font-size:10px;">CMU</p>
 </div>
 </div>
