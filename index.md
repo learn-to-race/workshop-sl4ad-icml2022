@@ -307,7 +307,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol">Talk title TBD</div>
+<div class="schedule-table-contentcol">Learning for High Performance yet Safe Control </div>
 </div>
 
 <div class="schedule-table-row-odd">
