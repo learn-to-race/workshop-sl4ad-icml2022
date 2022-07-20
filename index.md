@@ -496,7 +496,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Safety Assurances for Human-Robot Interaction via Confidence-aware Game-theoretic Human Models</i></div>
+<div class="schedule-table-contentcol"><i>Practical Safety Assurances for Dynamic Human-Robot Interactions</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
