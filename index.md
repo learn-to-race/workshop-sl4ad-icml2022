@@ -314,6 +314,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
 <!--div class="schedule-table-contentcol">Paper IDs: 1, 2, 3, 4, 5, 6, 9, 10, 13, 17, 18, 21, 22</div-->
+<div class="schedule-table-contentcol"><a href="https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -481,6 +482,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Poster Recap + Social</div>
 <!--div class="schedule-table-contentcol">Paper IDs: 1, 2, 3, 4, 5, 6, 9, 10, 13, 17, 18, 21, 22</div-->
+<div class="schedule-table-contentcol"><a href="https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
 </div>
 
 <div class="schedule-table-row-even">
