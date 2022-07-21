@@ -496,22 +496,22 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Safety Assurances for Human-Robot Interaction via Confidence-aware Game-theoretic Human Models</i></div>
+<div class="schedule-table-contentcol"><i>Practical Safety Assurances for Dynamic Human-Robot Interactions</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/kumar_chellapilla.png" alt="Kumar Chellapilla">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/jeff_schneider.png" alt="Jeff Schneider">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Kumar Chellapilla</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Amazon AWS</p>
+<p style="margin:0 0 0 10px;">Jeff Schneider</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Real-World Challenges in Building a Safe Autonomous Vehicle</i></div>
+<div class="schedule-table-contentcol"><i>Reinforcement Learning for self-driving cars</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -526,7 +526,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Reinforcement Learning as Data-Driven Decision Making</i></div>
+<div class="schedule-table-contentcol"><i>Learning Plannable Representations and Planning with Learnable Skills</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -613,14 +613,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/kumarchellapilla/" target="_blank" class="speaker_profile">
+<a href="https://www.linkedin.com/in/jeff-schneider-1593b322/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/kumar_chellapilla.png" alt="Kumar Chellapilla">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/speakers/jeff_schneider.png" alt="Jeff Schneider">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Kumar Chellapilla</p>
-<p style="margin:0 0 0 10px; font-size:10px;">General Manager, ML/AI Services<br>Amazon AWS</p>
+<p style="margin:0 0 0 10px;">Jeff Schneider</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>Carnegie Mellon University</p>
 </div>
 </div>
 </a>
@@ -812,6 +812,20 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Li Erran Li</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Head of Science/HIL at Amazon AWS AI and Adjunct Professor at Columbia; Computer Vision, Machine Learning Systems, and Algorithms</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.linkedin.com/in/bhat-manoj/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/manoj_bhat.png" alt="Manoj Bhat">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Manoj Bhat</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Researcher at Amazon,
+Focusing on Neural Radiance fields, reinforcement learning and representation learning applied to Autonomous Driving</p>
 </div>
 </div>
 </a>

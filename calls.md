@@ -103,6 +103,7 @@ Additional notes:
 - Eric Nyberg; CMU
 - Sylvia L. Herbert; UCSD
 - Li Erran Li; Amazon
+- Manoj Bhat; Amazon
 
 ## Contact addresses
 
