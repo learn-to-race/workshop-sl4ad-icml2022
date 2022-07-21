@@ -503,7 +503,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 <div class="schedule-table-timecol" style="vertical-align: 10px;">17:00</div>
 <div class="schedule-table-eventcol"><div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:60px;">
-<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/Jeff_schneider.png" alt="Jeff Schneider">
+<img style="width:50px; height:50px; position: relative; bottom: 10px;" src="{{ site.baseurl }}/assets/images/speakers/jeff_schneider.png" alt="Jeff Schneider">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jeff Schneider</p>
