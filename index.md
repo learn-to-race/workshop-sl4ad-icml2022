@@ -507,11 +507,11 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jeff Schneider</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Amazon AWS</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Carnegie Mellon University</p>
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Real-World Challenges in Building a Safe Autonomous Vehicle</i></div>
+<div class="schedule-table-contentcol"><i>Reinforcement Learning for self-driving cars</i></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -620,7 +620,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jeff Schneider</p>
-<p style="margin:0 0 0 10px; font-size:10px;">General Manager, ML/AI Services<br>Amazon AWS</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor<br>Carnegie Mellon University</p>
 </div>
 </div>
 </a>
