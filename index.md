@@ -741,13 +741,13 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 </div>
 </a>
 
-<a href="https://danielomeiza.github.io/" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/bhat-manoj/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/manoj_bhat.png" alt="Manoj Bhat">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">M<anoj Bhat</p>
+<p style="margin:0 0 0 10px;">Manoj Bhat</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Researcher at Amazon, focusing on Neural Radiance fields, reinforcement learning, and representation learning applied to autonomous driving</p>
 </div>
@@ -812,20 +812,6 @@ We also feature an exciting and new AI Challenge in high-speed autonomous racing
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Li Erran Li</p>
 <p style="margin:0 0 0 10px; font-size:10px;">Head of Science/HIL at Amazon AWS AI and Adjunct Professor at Columbia; Computer Vision, Machine Learning Systems, and Algorithms</p>
-</div>
-</div>
-</a>
-
-<a href="https://www.linkedin.com/in/bhat-manoj/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="{{ site.baseurl }}/assets/images/organizers/manoj_bhat.png" alt="Manoj Bhat">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Manoj Bhat</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Researcher at Amazon,
-Focusing on Neural Radiance fields, reinforcement learning and representation learning applied to Autonomous Driving</p>
 </div>
 </div>
 </a>
