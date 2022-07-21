@@ -526,7 +526,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Reinforcement Learning as Data-Driven Decision Making</i></div>
+<div class="schedule-table-contentcol"><i>Learning Plannable Representations and Planning with Learnable Skills</i></div>
 </div>
 
 <div class="schedule-table-row-odd">
