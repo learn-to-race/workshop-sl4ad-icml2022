@@ -539,8 +539,8 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 
 </div>
 
-Poster Presentation Gathertown link: https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022  
-  
+<!--Poster Presentation Gathertown link: https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022  -->
+
 ## Speakers
 
 <div style="display:block; padding:10px 0 0 0; width:900px;">
