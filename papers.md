@@ -18,6 +18,22 @@ title:
 
 # Papers
 
+### Best Paper Award Recipient
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Jonathan Francis, Bingqing Chen, Weiran Yao, Eric Nyberg, Jean Oh</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_23.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
+### Best Paper Runner-up
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">On the Robustness of Safe Reinforcement Learning under Observational Perturbations</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Jie Tan, Bo Li, Ding Zhao</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_15.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
 ### Accepted Papers
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
@@ -93,12 +109,6 @@ title:
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">On the Robustness of Safe Reinforcement Learning under Observational Perturbations</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Zuxin Liu, Zijian Guo, Zhepeng Cen, Huan Zhang, Jie Tan, Bo Li, Ding Zhao</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_15.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Constrained Model-based Reinforcement Learning via Robust Planning</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Zuxin Liu, Zijian Guo, Ding Zhao</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
@@ -132,12 +142,6 @@ title:
     <p style="margin:0 0 4px 0;font-size:18px;">Multimodal Unsupervised Car Segmentation via Adaptive Aerial Image-to-Image Translation</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Hanjiang Hu, Haohong Lin, Peide Huang, Zhepeng Cen</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_22.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Jonathan Francis, Bingqing Chen, Weiran Yao, Eric Nyberg, Jean Oh</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_23.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
