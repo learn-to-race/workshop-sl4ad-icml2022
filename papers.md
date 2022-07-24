@@ -34,7 +34,21 @@ title:
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_15.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
-### Accepted Papers
+### Spotlights
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">Constrained Model-based Reinforcement Learning via Robust Planning</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Zuxin Liu, Zijian Guo, Ding Zhao</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
+<div class="container" style="margin-top:30px;margin-bottom:30px;">
+    <p style="margin:0 0 4px 0;font-size:18px;">SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</p>
+    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_12.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+</div>
+
+### Accepted Poster
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">MPC-based Imitation Learning for Safe and Human-like Autonomous Driving</p>
@@ -91,12 +105,6 @@ title:
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Linrui Zhang, Qin Zhang, Li Shen, Bo Yuan, Xueqian Wang</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_12.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">From Pedestrian Detection to Crosswalk Estimation: An EM Algorithm and Analysis on Diverse Datasets</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Ross E Greer and Mohan Trivedi</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_13.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
@@ -106,12 +114,6 @@ title:
     <p style="margin:0 0 4px 0;font-size:18px;">The Edge of Disaster: A Battle Between Autonomous Racing and Safety</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Matthew R Howe, James P Bockman, Adrian Orenstein, Stefan Podgorski, Sam Bahrami, Ian Reid</p>
     <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_14.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
-</div>
-
-<div class="container" style="margin-top:30px;margin-bottom:30px;">
-    <p style="margin:0 0 4px 0;font-size:18px;">Constrained Model-based Reinforcement Learning via Robust Planning</p>
-    <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Zuxin Liu, Zijian Guo, Ding Zhao</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_16.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
