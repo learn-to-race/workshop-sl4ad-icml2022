@@ -291,7 +291,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Self-supervised learning for autonomous driving</i></div>
+<div class="schedule-table-contentcol"><a href="https://recorder-v3.slideslive.com/#/share?share=71161&s=134b614e-18a1-4966-847b-ec4ec1e2fcd7" target="_blank"><i>Self-supervised learning for autonomous driving</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
