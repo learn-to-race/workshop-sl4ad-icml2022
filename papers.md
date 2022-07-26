@@ -23,7 +23,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Jonathan Francis, Bingqing Chen, Weiran Yao, Eric Nyberg, Jean Oh</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_23.pdf" target="_blank">Paper</a>] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_23.pdf" target="_blank">Paper</a>] [<a href="https://recorder-v3.slideslive.com/?share=70970&s=1d8019cf-a524-4860-8d32-d3ad3763f1cc" target="_blank">Video</a>]</p>
 </div>
 
 ### Best Paper Runner-up
@@ -53,7 +53,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">MPC-based Imitation Learning for Safe and Human-like Autonomous Driving</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Flavia Sofia Acerbo, Jan Swevers, Tinne Tuytelaars, Son Tong</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_1.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_1.pdf" target="_blank">Paper</a>] [Poster] [<a href="https://recorder-v3.slideslive.com/?share=70946&s=9a0d9ed5-3d5e-499e-a337-e65779394f15" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
@@ -71,7 +71,7 @@ title:
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
     <p style="margin:0 0 4px 0;font-size:18px;">A Reinforcement Learning Attention Agent for Lidar-based 3D Object Detector</p>
     <p style="margin:0 0 2px 0;font-size:14px;color:#000000;">Shuqing Zeng, Jordan Chipka, Yasen Hu</p>
-    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_4.pdf" target="_blank">Paper</a>] [Poster] [Video]</p>
+    <p style="margin:0 0 20px 0;font-size:14px;color:#000000;">[<a href="{{ site.baseurl }}/assets/papers/paper_4.pdf" target="_blank">Paper</a>] [Poster] [<a href="https://recorder-v3.slideslive.com/?share=70950&s=0d6b5671-c85d-40fb-9e59-b93f7d622ea1" target="_blank">Video</a>]</p>
 </div>
 
 <div class="container" style="margin-top:30px;margin-bottom:30px;">
