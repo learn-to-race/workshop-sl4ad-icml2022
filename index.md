@@ -291,7 +291,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><a href="https://recorder-v3.slideslive.com/#/share?share=71161&s=134b614e-18a1-4966-847b-ec4ec1e2fcd7" target="_blank"><i>Self-supervised learning for autonomous driving</i></a></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987747/selfsupervised-3d-perception-for-autonomous-driving?ref=folder-105306" target="_blank"><i>Self-supervised learning for autonomous driving</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -307,14 +307,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Learning for High Performance yet Safe Control</i></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987741/learning-for-high-performance-yet-safe-control?ref=folder-105306"><i>Learning for High Performance yet Safe Control</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">10:00</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
 <!--div class="schedule-table-contentcol">Paper IDs: 1, 2, 3, 4, 5, 6, 9, 10, 13, 17, 18, 21, 22</div-->
-<div class="schedule-table-contentcol"><a href="https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
+<div class="schedule-table-contentcol"><b>Gathertown</b> and in-person displays</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -335,7 +335,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987752/constrained-modelbased-reinforcement-learning-via-robust-planning?ref=folder-105306"><i>#16: Constrained Model-based Reinforcement Learning via Robust Planning</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -350,7 +350,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987764/saferlkit-evaluating-efficient-reinforcement-learning-methods-for-safe-autonomous-driving?ref=folder-105306"><i>#12: SafeRL-Kit: Evaluating Efficient Reinforcement Learning Methods for Safe Autonomous Driving</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -371,7 +371,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#11: Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987763/solving-learntorace-autonomous-racing-challenge-by-planning-in-latent-space?ref=folder-105306"><i>#11: Solving Learn-to-Race Autonomous Racing Challenge by Planning in Latent Space</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -386,7 +386,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#14: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987768/the-edge-of-disaster-a-battle-between-autonomous-racing-and-safety?ref=folder-105306"><i>#14: The Edge of Disaster: A Battle Between Autonomous Racing and Safety</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -407,7 +407,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Reward (Mis)design for Autonomous Driving and Accumulating Safety Rules from Catastrophic Action Effects</i></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987742/reward-misdesign-for-autonomous-driving-and-accumulating-safety-rules-from-catastrophic-action-effects?ref=folder-105306"><i>Reward (Mis)design for Autonomous Driving and Accumulating Safety Rules from Catastrophic Action Effects</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -428,7 +428,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987757/distributionaware-goal-prediction-and-conformant-modelbased-planning-for-safe-autonomous-driving?ref=folder-105306"><i>#23: Distribution-aware Goal Prediction and Conformant Model-based Planning for Safe Autonomous Driving</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -443,7 +443,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></div>
+<div class="schedule-table-contentcol" style="margin:0 0 0 35px;"><a target="_blank" href="https://slideslive.com/38987751/on-the-robustness-of-safe-reinforcement-learning-under-observational-perturbations?ref=folder-105306"><i>#15: On the Robustness of Safe Reinforcement Learning under Observational Perturbations</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -459,7 +459,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Multi-modal sensor fusion for the Amazon Scout robot</i></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987743/multimodal-sensor-fusion-for-the-amazon-scout-robot?ref=folder-105306"><i>Multi-modal sensor fusion for the Amazon Scout robot</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -475,14 +475,14 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Learning How To Be Safe</i></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987744/robots-that-learn-to-be-safe?ref=folder-105306"><i>Robots that Learn to Be Safe</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
 <div class="schedule-table-timecol">15:30</div>
 <div class="schedule-table-eventcol">Social + Poster Session</div>
 <!--div class="schedule-table-contentcol">Paper IDs: 1, 2, 3, 4, 5, 6, 9, 10, 13, 17, 18, 21, 22</div-->
-<div class="schedule-table-contentcol"><a href="https://app.gather.town/app/wLuHBtWDuNBoHgun/SL4AD%2022" target="_blank"><b>Gathertown</b></a> and in-person displays</div>
+<div class="schedule-table-contentcol"><b>Gathertown</b> and in-person displays</div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -498,7 +498,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Practical Safety Assurances for Dynamic Human-Robot Interactions</i></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987745/practical-safety-assurances-for-dynamic-humanrobot-interactions?ref=folder-105306"><i>Practical Safety Assurances for Dynamic Human-Robot Interactions</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
@@ -513,7 +513,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Reinforcement Learning for self-driving cars</i></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987746/safety-and-reinforcement-learning-for-selfdriving-cars?ref=folder-105306"><i>Reinforcement Learning for self-driving cars</i></a></div>
 </div>
 
 <div class="schedule-table-row-even">
@@ -528,7 +528,7 @@ Friday, 22 July, 2022. All times are in Eastern Daylight Time (EDT). Current tim
 </div>
 </div>
 </div>
-<div class="schedule-table-contentcol"><i>Learning Plannable Representations and Planning with Learnable Skills</i></div>
+<div class="schedule-table-contentcol"><a target="_blank" href="https://slideslive.com/38987748/learning-plannable-representations-and-planning-with-learnable-skills?ref=folder-105306"><i>Learning Plannable Representations and Planning with Learnable Skills</i></a></div>
 </div>
 
 <div class="schedule-table-row-odd">
